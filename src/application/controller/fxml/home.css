@@ -1,0 +1,10 @@
+.top_bar_container{
+	-fx-background-color: #ebe9f7;
+}
+
+.button{
+	-fx-border-color: transparent;
+	-fx-border-width: 0;
+	-fx-background-radius: 0;
+	-fx-background-color: transparent;
+}
